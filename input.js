@@ -1,5 +1,5 @@
 /*
-活动名称：整点抽
+活动名称：整点抽s
 环境变量：jd_daycj_interval // 自定义运行间隔时长（整数，单位毫秒），默认2000
         jd_daycj_notify // 是否推送通知（true/false），默认不推送
         jd_daycj_pinFilter // 账号pin过滤，多个用@进行分割
